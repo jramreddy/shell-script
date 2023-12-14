@@ -6,3 +6,5 @@ FRUITS=("Bannana" "APPLE" "SAPOTA")
 echo "FIRST fruit name in the array is : ${FRUITS[0]} ."
 echo "SECOND fruit name in the array is : ${FRUITS[1]} ."
 echo "Third fruit name in the array is : ${FRUITS[2]}."
+
+echo "Print ALL the fruits in onego is: ${FRUITS[@]}."   #@ indicates All 
