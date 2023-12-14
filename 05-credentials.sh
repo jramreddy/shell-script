@@ -1,7 +1,16 @@
 #!/bin/bash
 
-USERNAME=$1
-PASSWORD=$2
+# USERNAME=$1
+# PASSWORD=$2
 
-echo "Username is $$USERNAME, Password is $PASSWORD."
+# # print un and pwd from the variables 
 
+# echo "Username is: $USERNAME, Password is: $PASSWORD."
+
+
+
+echo "Please enter your Username :"
+
+READ USERNAME
+
+echo "Username Entered is: $USERNAME"
