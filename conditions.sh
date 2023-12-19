@@ -40,7 +40,7 @@ NUM1=$N1
 
 if [$NUM1 gt 100]
 then
-   echo("Given number: $NUM1 is greater than 100")
+   echo "Given number: $NUM1 is greater than 100"
 else 
-   echo("Given number: $NUM1 is less than 100")
+   echo "Given number: $NUM1 is less than 100"
 fi
