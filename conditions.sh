@@ -49,7 +49,7 @@
 # fi
 NUMBER=$n
 
-if ( $NUMBER -gt 100) then
+if ( $NUMBER -gt 100 ) then
     echo "Given Number $NUMBER is greter than 100"
 else
     echo "Given number $NUMBER Is lesser than 100"
