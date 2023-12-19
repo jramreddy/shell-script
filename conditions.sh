@@ -38,7 +38,7 @@
 
 NUM1=$N1
 
-if [$NUM1 gt 100]
+if [$NUM1 gt 100];
 then
    echo "Given number: $NUM1 is greater than 100"
 else 
