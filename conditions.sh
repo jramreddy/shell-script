@@ -47,11 +47,11 @@
 # else 
 #    echo "Given number: ($N1) is less than 100"
 # fi
-number=20
+number=$N1
 
 # Use an if-else statement to check the condition
 if [ $number -gt 100 ]; then
-  echo "Given number ($number) is greater than 100"
+  echo "Given number ($N1) is greater than 100"
 else
   echo "Given number ($number) is less than 100"
 fi
